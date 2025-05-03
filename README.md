@@ -1,5 +1,5 @@
 # MSDP100
-Microsoft Azure Data Scientist Associate (DP-100) Exam Prep Professional Certificate (5 course series)
+## Microsoft Azure Data Scientist Associate (DP-100) Exam Prep Professional Certificate (5 course series)
 
 This Professional Certificate is intended for data scientists with existing knowledge of Python and machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow, who want to build and operate machine learning solutions in the cloud. This Professional Certificate teaches learners how to create end-to-end solutions in Microsoft Azure. They will learn how to manage Azure resources for machine learning; run experiments and train models; deploy and operationalize machine learning solutions; and implement responsible machine learning. They will also learn to use Azure Databricks to explore, prepare, and model data; and integrate Databricks machine learning processes with Azure Machine Learning.
 
